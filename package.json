@@ -1,0 +1,11 @@
+{
+  "name": "node-in-my-mind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MitrichevGoing/node-in-my-mind.git",
+  "author": "mitrichev <953288178@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
